@@ -1,0 +1,9 @@
+{
+  "name": "TalentIQ",
+  "short_name": "TalentIQ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5ef",
+  "theme_color": "#123d32",
+  "icons": []
+}

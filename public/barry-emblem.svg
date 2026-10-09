@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Barry geometric bee emblem</title>
+  <path fill="#f6f1e8" stroke="#0d0d0d" stroke-width="12" d="M200 12 363 106v188L200 388 37 294V106z"/>
+  <path fill="none" stroke="#f47a2a" stroke-width="4" d="m200 34 144 83v166l-144 83-144-83V117z"/>
+  <g transform="translate(45 71) rotate(-12 155 129)" stroke="#0d0d0d" stroke-linejoin="bevel">
+    <path fill="#ff9a52" stroke-width="8" d="m151 119-50-81-58 9-14 40 55 65z"/>
+    <path fill="#d9631a" stroke-width="8" d="m177 118 25-82 40-25 26 24-4 71z"/>
+    <path fill="#f47a2a" stroke-width="9" d="m15 157 103-27 72 24-27 54-96 16-55-33z"/>
+    <path fill="#0d0d0d" stroke-width="0" d="m47 149 20-5 48 82-20 4zm44-11 20-5 44 78-20 6zm45 2 19 7 19 45-17 17z"/>
+    <path fill="#ff9a52" stroke-width="8" d="m179 153 40-42 54 18 19 48-30 43-58 2-32-36z"/>
+    <path fill="#0d0d0d" stroke-width="0" d="m217 146 24-14 25 14v28l-25 14-24-14z"/>
+    <path fill="none" stroke-width="7" d="m270 126 12-40 27-20m-24 67 29-30 32-2M194 210l-8 34-18 14m46-37 2 34-13 17m34-51 17 28-4 22"/>
+    <path fill="none" stroke="#f47a2a" stroke-width="6" d="M3 168h-38m47 28h-57"/>
+  </g>
+</svg>
